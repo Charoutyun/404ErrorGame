@@ -4,7 +4,9 @@ This is A clone of the trex 404 game on google chrome with our own twist !
 This game revolves around a mighty  Capybarra who faces Wolves hedgehogs wasps, and WIZZARDS! 
 This is a collaboration project with Three of us total Weve all worked on back end and front end portions of the game. 
 
-If you would like to run it make sure you have node.js and svelte downloaded ! 
+
+# Still underprogess so make sure to download the dev branch ! not main.
+If you would like to run it make sure you have node.js and svelte downloaded !
 
 # Install node.js 
 
